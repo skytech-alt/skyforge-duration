@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-duration"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Парсинг и форматирование времени и размеров для SkyForge."
+    репозиторий = "github.com/skytech-alt/skyforge-duration"
+    точка_входа = "code/main.skf"
+    теги = ["duration", "size", "parse"]
+    лицензия = "MIT"
+    зависимости = []
+}
